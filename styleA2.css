@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav {
+    background-color: #6a1f1f;
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    background-color: #c43c3c;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+input, select, button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #10b4c0;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0b4387;
+}
+
+canvas {
+    margin-top: 20px;
+    max-width: 90%;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.audio-instructions {
+    background-color: rgb(11, 1, 57);
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
+
+.audio-instructions ul {
+    list-style: none;
+    padding: 0;
+}
+
+.dog-carousel img {
+    height: 150px;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+.breed-button {
+    background-color: rgba(93, 62, 6, 0.499);
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.breed-button:hover {
+    background-color: rgb(211, 122, 13);
+}
