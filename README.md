@@ -22,3 +22,8 @@ See the [Developer Manual](#developer-manual) section below.
 
 # Developer Manual
 
+# How to Install the Web Application 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/JAYB1T/inst377-final-project.git
+   cd inst377-final-project
